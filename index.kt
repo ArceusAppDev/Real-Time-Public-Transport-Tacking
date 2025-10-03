@@ -9,6 +9,10 @@ fun main(){
   return " krishn"
 
   print("hell naaa")
+
+  fun(){
+    val nonon = "hihhh"
+  }
 }
 
 
