@@ -2,8 +2,15 @@
 
 firt commit of 4 oct 2025
 
-changes in main hopefully
 
-the last changed the student branched by using git branch -M student and than git push -u origin student
+this time there will be changes in main branch 
+--> 1. git branch -M main
+--> 2. git add .
+--> 3. git commit -m "fsdf"
+--> 4. git push
+
+
+
+
 
 
